@@ -1,1 +1,1 @@
-# fondamentidiinformatica
+# esercitazioni-fond-info
